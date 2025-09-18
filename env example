@@ -1,0 +1,7 @@
+# OpenSearch Serverless Collection Configuration
+OPENSEARCH_ENDPOINT=***********.us-west-2.aoss.amazonaws.com
+OPENSEARCH_INDEX=mem0-shared
+AWS_REGION=us-west-2
+
+# Neptune Analytics Configuration
+NEPTUNE_ANALYTICS_GRAPH_IDENTIFIER=g-********
